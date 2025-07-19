@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![Alt text](main/assets/images/Opening Pic.jpg)
-
-![opening Pic](https://github.com/user-attachments/assets/b5ae0008-7823-4311-aa27-29debc9d6082)
+![Alt text](assets/images/OpeningPic.jpg)
 
 
 I have just started working working on my public profile and portfolio. Pardon my dust while I clean the place up. 
