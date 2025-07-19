@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-![Alt text](assets/images/OpeningPic.jpg)
+My name Is Kimberly Gilbraith.  I’m a Senior Instructor Designer and Program Manager with over 20 years of training experience across multiple areas of expertise.  Thank you for taking the time to get to know me. 
 
+
+![Avatar at a desk](https://github.com/user-attachments/assets/ff88ea5a-c304-4eff-a393-1ecf59dcc521)
 
 I have just started working working on my public profile and portfolio. Pardon my dust while I clean the place up. 
 
