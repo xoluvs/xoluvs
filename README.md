@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Alt text](assets/images/Opening Pic.jpg)
+![Alt text](main/assets/images/Opening Pic.jpg)
 
 ![opening Pic](https://github.com/user-attachments/assets/b5ae0008-7823-4311-aa27-29debc9d6082)
 
