@@ -1,37 +1,87 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  ![Opening Pic](assets/images/openingPic.jpg)
 
-My name Is Kimberly Gilbraith.  I’m a Senior Instructor Designer and Program Manager with over 20 years of training experience across multiple areas of expertise.  Thank you for taking the time to get to know me. 
+</div>
 
+###
 
-![Avatar at a desk](https://github.com/user-attachments/assets/ff88ea5a-c304-4eff-a393-1ecf59dcc521)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-I have just started working working on my public profile and portfolio. Pardon my dust while I clean the place up. 
+###
 
-About Me:
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xoluvs.xoluvs&"  />
+</div>
 
-I am an experienced Senior Instructional Designer / Program Manager / Trainer. With over 25 years of experience in customer service and over ten years in instructional design and training, I offer a unique blend of technical expertise and educational leadership that aligns well with many carrers. I specialize in developing impactful, global and engaging training experiences that delivers measurable results. In my trainings, I use interactive designs that engage learners with fun activities that resonate with learners long after their training ends. My career spans both front-end support and back-end training development across multiple technical, customer service, and healthcare sectors. I enjoy creating technical trainings and simulations that bring gamification, DEI, and adult learning elements together in a harmonious mix. I use my volunteer work to stretch my skills with volunteer work in my community. My commitment to community service provides opportunities for professional growth while allowing me to make meaningful contributions to those around me. 
+###
 
-I'm currently looking for a remote position that allows me to continue my personal growth and development. I enjoy compiling data to look at the results after completing a project with my partner teams. I am most excited by new projects and learning opertunities. I am working on getting back to college to finish my degrees in Computer Science. I find that using coding in combination with programs such as Articulate Storyline enhance your options with gamification elements, reporting, and learner engagement.
+<h1 align="center">Hello and welcome to my home. 👋</h1>
 
-You can view the website I manager for our non-profit at https://packwoodimprovementclub.com or take a sneak preview of a short simualtion and demo I am working on for my portfolio.  
-https://xoluvs.github.io/D9-Simulations/
+###
 
-You can learn more about me and my work history at https://www.linkedin.com/in/kimberly-gilbraith-22687456/ or reach out to me at ladygilbraith@gmail.com.
+<h3 align="left">My name Is Kimberly Gilbraith.  I’m a Senior Instructor Designer and Program Manager with over 20 years of training experience across multiple areas of expertise.  Feel Free to look around and explore.</h3>
 
-I look forward to hearing from you soon. 
+###
 
-Kimberly Gilbraith
-<!--
-**xoluvs/xoluvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br clear="both">
 
-Here are some ideas to get you started:
+<p align="left"></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=xoluvs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<p align="left"></p>
+
+###
